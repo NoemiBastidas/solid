@@ -51,5 +51,20 @@ public class CalculadoraTest {
         assertEquals(expResult, result);
 
     }
+
+    /**
+     * Test of restar method, of class Calculadora.
+     */
+    @Test
+    public void testRestar() {
+        System.out.println("restar");
+        int primerNumero = 50;
+        int segundoNumero = 40;
+        Calculadora instance = new Calculadora();
+        int expResult = 10;
+        int result = instance.restar(primerNumero, segundoNumero);
+        assertEquals(expResult, result);
+   
+    }
     
 }
