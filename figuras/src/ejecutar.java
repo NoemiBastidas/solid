@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Cristian
+ * @author Gabo
  */
 import java.util.Scanner;
 public class ejecutar {
