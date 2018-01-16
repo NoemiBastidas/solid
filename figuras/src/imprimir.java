@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Cristian
+ * @author Gabo
  */
 public class imprimir extends figura{
     
