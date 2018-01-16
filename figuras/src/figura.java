@@ -9,7 +9,7 @@
 
 /**
  *
- * @author Cristian
+ * @author Gabo
  */
 public class figura {
 
